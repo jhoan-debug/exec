@@ -1,1 +1,1 @@
--force_vendor_id 0x10DE -force_id0x091 -refresh 60 -tickrate -language english -useal -nojoy -high -d3d9lavailablecores -noaafonts -noforcemaccel -noforcemparms -noipx -nocrashdialog -noforcemspd -lv
+-force_vendor_id 0x10DE -force_id0x091 -refresh 60 -tickrate -language english -useal -nojoy -high -d3d9lavailablecores -noaafonts -noforcemaccel -noforcemparms -noipx -nocrashdialog -noforcemspd -lv -novid
